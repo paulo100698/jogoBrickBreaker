@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1540270549 source:c:\users\paulo\desktop\jogo-vt\jogovt\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"string"
+
+1540576063 source:c:\users\paulo\desktop\projeto - jogo\jogo-vt\jogovt\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"string"
+	<SDL_mixer.h>
+
+1543498281 source:c:\users\blade\desktop\projeto - jogo\jogo-vt\jogovt\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"string"
+	<SDL_mixer.h>
+
+1542644759 source:c:\users\blade\desktop\estudos\01 - algoritmos\projeto - jogo\jogo-vt\jogovt\main.cpp
+	<SDL.h>
+	"SDL_opengl.h"
+	"SDL_image.h"
+	"string"
+	<SDL_mixer.h>
+
